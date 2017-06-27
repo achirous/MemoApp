@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Achilleas\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Achilleas\AndroidStudioProjects\MemoApp\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_938bb0efedc6ad61b2ce41cce15fa9db98bec600.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Achilleas\AndroidStudioProjects\MemoApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Achilleas\AndroidStudioProjects\MemoApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_65b7c07caba35902ceeb190d122d450095ba1d28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Achilleas\AndroidStudioProjects\MemoApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Achilleas\AndroidStudioProjects\MemoApp\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_076d0eac6a3bff7f157b6ca15bd5c56345d5b206.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Achilleas\AndroidStudioProjects\MemoApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Achilleas\AndroidStudioProjects\MemoApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_bc46af975cf1ed73db304860dd9489dbe309fcdd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Achilleas\AndroidStudioProjects\MemoApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Achilleas\AndroidStudioProjects\MemoApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_ed0e9e6f8eb9f4eae39a4592c7d30ce55006d031.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Achilleas\AndroidStudioProjects\MemoApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Achilleas\AndroidStudioProjects\MemoApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_9d8e2735c5ccb8a2ed5cc17764f2c86399c313b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Achilleas\AndroidStudioProjects\MemoApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Achilleas\AndroidStudioProjects\MemoApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_74672ad7294347f74da4d98732756df3651580ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Achilleas\AndroidStudioProjects\MemoApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Achilleas\AndroidStudioProjects\MemoApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_558c93e6ec327cf8f723e1f05eb2fb5934666171.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Achilleas\AndroidStudioProjects\MemoApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Achilleas\AndroidStudioProjects\MemoApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_1c8ab0ec1ff363a62050e9acbc2cfe8be40158ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Achilleas\AndroidStudioProjects\MemoApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Achilleas\AndroidStudioProjects\MemoApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_50d7525edc5ba6525dc5da77ec325e878a29d39f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Achilleas\AndroidStudioProjects\MemoApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Achilleas\AndroidStudioProjects\MemoApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_e0c9c5d1167b436b436d307082aa98962ea47fc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Achilleas\AndroidStudioProjects\MemoApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Achilleas\AndroidStudioProjects\MemoApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_72820b9363c896b225253ff317e117c3fb6ac7db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Achilleas\AndroidStudioProjects\MemoApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Achilleas\AndroidStudioProjects\MemoApp\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_4a79d534a925d021ae5aaff4e018a39f02bcfcf8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Achilleas\AndroidStudioProjects\MemoApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Achilleas\AndroidStudioProjects\MemoApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_a5b9d6744f54a793c096b68a239a5451dda18a9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Achilleas\AndroidStudioProjects\MemoApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Achilleas\AndroidStudioProjects\MemoApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_d9117f987245f8f076e83b938b5e8b940a98a5d1.jar" />
+    </item>
+
+</items>
